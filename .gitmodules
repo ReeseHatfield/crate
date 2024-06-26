@@ -1,0 +1,9 @@
+[submodule "td"]
+	path = td
+	url = https://github.com/ReeseHatfield/td.git
+[submodule "pm"]
+	path = pm
+	url = https://github.com/ReeseHatfield/pm.git
+[submodule "clip"]
+	path = clip
+	url = https://github.com/ReeseHatfield/clip.git
